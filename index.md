@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+<font size=7>写在20岁生日</font>
 
-You can use the [editor on GitHub](https://github.com/Atomization/written-on-the-20th-birthday/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+&emsp;&emsp;这是在广州的第三个生日。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+&emsp;&emsp;这是又一次将要一个人度过的生日。上一次是18岁的时候，那天我等一个人的电话一整个白天，最后没有等到。
 
-### Markdown
+&emsp;&emsp;20岁的生日可能没有其他活动了，所以我想随便写点东西。我半个月前就这么想了，本来打算提前几天就写好，但是好几次寥寥写了几句，写得很琐碎，支离破碎的就不知道怎么写下去，结果最后还是拖到了今晚。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+&emsp;&emsp;从上大学开始不太爱庆祝生日了，原因很多。其一是因为纪念日本身并无特殊性。时间是连续的，历法是人为规定的，历法是现在这个样子只是因为人类恰好生活在这颗地球上。明天和明年并不会因为诚心祈祷就一定变得更好，生日和各种纪念日纯属于人为规定但并不客观存在的概念。生日不是我开心或者庆祝的理由，我有理由每天都开心。其二是因为生日反而在提醒我，我的寿命已经又少了365天，如果运气比较好的话，这占我能够享有的所有时间的1/100，20年就占了1/5。人生短短三万天，够我去做我想做的事情吗？够我活腻吗？现在的答案是不够。我大概几年前开始试图认真思考人生的意义到底是什么，思考死亡。偶有夜晚躺在床上精神亢奋的时候，我的各种奇思妙想经常都会不可遏制地归递到对死亡的思考。除了一次又一次确认我真实地惧怕着死亡之外没有得出有效的答案。我能接受死亡结局的事实，却始终没有办法消除对它的恐惧。跟一些比较亲密的朋友交换过想法，发现自己可能是最怕死的那一个。刘慈欣的小说里写过“‘死亡赋予生命意义’这种说法本来就是人发现了自己的必死结局之后用来安慰自己的谎言”，我觉得是有一些道理的。我其实一直在期待着通往永生的技术的出现。死亡离我是如此的的近，这不是说周围的熟人或者同住一个小区有人离世这种周围人的死亡，而是自身的死亡，即便是照自然寿命算的几十年后，也似乎已经走到了跟前。我也没有办法用灵魂啊这种比较反自然科学的说法安慰自己，没有效果。我最终也没有消除这种思考在大脑里长时间的存在，在一段时间里相当抑郁，因为一旦停止专注于工作或者别的什么事，大脑就会被这种背景音完全占据。不断地重复相同的思考，永远没有答案。不过我也惊叹于人脑惊人的适应能力，时至今日这种背景音也仍然在我的大脑里低声回荡，但我似乎已经习惯了忽略，或者说共处。逃避有用，而且并不总是可耻。
 
-```markdown
-Syntax highlighted code block
+&emsp;&emsp;人对时间的感受主观性非常的强烈，小到尿急的时间膨胀、考试的时间收缩，大到对以年的单位的时间跨度的巨大的感知差异。绝大多数人回想童年的跨度应该都会远远超过之后的人生阶段，小学的六年远远比中学的六年漫长而且遥远。随着理性的逐渐建立，相同的时间变得越来越短了。主观上时间的流逝速度是在不断加快的，假设这个理论真实，那么前二十年的实际占据我主观感受的人生总长度，可能已经超过了一半。
 
-# Header 1
-## Header 2
-### Header 3
+&emsp;&emsp;生活的一切都在时间这一不可抗力的推进下演变，祖辈去世，父辈老年，到了自己这一代人自食其力生活的时候。年记里写过，我面对学生时代的结束不知所措。多年的朋友开始陆陆续续谈恋爱，有的甚至已经在想象婚姻和后代。而我感觉自己还没有长大，还没能成为大人。单身的玩笑开着开着就到了20岁，越是长期保持着单身，越是发现自己对亲密的二人伴侣关系的需求在逐渐减弱。经常发自内心地觉得一个人除了没有恋爱本身是一个坏处之外，实在是有数不清的好处。大学两年时间没能喜欢一个人，我似乎越来越熟练地享有自己所有的时间。我也不喜欢小孩，我有想过永远一个人的生活。但我周围的人绝大多数不会跟我一样，我害怕自己是剩下的那一个。最好的几个朋友宣布恋爱消息的时候我心中是五味杂陈的，当然原因也是自私的。大家都有了恋爱婚姻子女有了生活的新的部分，而我生活的大部分是朋友和自己的乐趣构成的，我感觉我的朋友正在离我远去，我生活的一部分正在逐渐流失，而没有新的东西填进来。
 
-- Bulleted
-- List
+&emsp;&emsp;我想我的朋友们了。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Atomization/written-on-the-20th-birthday/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<font color=gray>Edited Sep 20,2020</font>
