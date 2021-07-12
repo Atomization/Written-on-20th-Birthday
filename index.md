@@ -14,4 +14,4 @@
 
 &emsp;&emsp;我想我的朋友们了。
 
-<font color=gray>Edited Sep 20,2020</font>
+<font color=#A9A9A9>Edited Sep 20,2020</font>
